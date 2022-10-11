@@ -1,17 +1,10 @@
-# 导入OpenCV
 import cv2
-# 导入mediapipe
 import mediapipe as mp
-# 导入PIL
 from PIL import Image, ImageDraw, ImageFont
-# 导入其他依赖包
 import time
 import math
 import numpy as np
 import torch
-
-
-# from baidu_pp_wrap import Baidu_PP_Detection,Baidu_PP_OCR
 
 # 画图类
 class DrawSomeInfo:
