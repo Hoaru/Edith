@@ -1,4 +1,4 @@
-Edith is a Edith is an assistive system that recognize obejects or an area of characters and give auditory feedback.
+Edith is an assistive system that recognize obejects or an area of characters and give auditory feedback.
 
 It has 3 modes, Object detection mode, Text detection mode and Auxiliary mode, aiming at helping different.
 
