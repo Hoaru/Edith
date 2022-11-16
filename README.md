@@ -11,5 +11,3 @@ Here are more details of our work.
 2. Applied YOLOv5, PaddleOCR to train object and character recognition models with PyTorch, achieved accuracy of 90.1% and 81.4%. Supervised the training progress with Wandb.
 
 3. Used pyttsx3 on voice synthesis in mp4 format and broadcast according to text information. Used MediaPipe and OpenCV for gesture recognition to control recognition patterns.
-
-4. Designed and built database schema using Google Firebase to persist, manage text information. Utilized IFTTT to receive data from edge device and send notifications to mobile users.
