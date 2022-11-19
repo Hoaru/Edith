@@ -8,6 +8,6 @@ Here is a brief introduction of our work:
 3. Used YOLOv5, PyTorch and PaddleOCR to train an object-recognition model and a text-recognition model with Python, achieved accuracy of 90.1% and 81.4%. 
 4. Established communication between RPi and PC for image collection and message feedback through Socket and multithread.
 
-Cause the size of some of the file is over 100MB, all the dependency files has been upload to Google Drive.
+Cause the sizes of some file are over 100MB, all the dependency files has been uploaded to Google Drive.
 (https://drive.google.com/drive/u/3/folders/1kW9ZaXfIemfHjCNuADo9503cac80h5UU)
 Thanks for reading.
