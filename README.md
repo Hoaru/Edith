@@ -7,5 +7,3 @@ Here is a brief introduction of our work:
 2. Applied pyttsx3 for voice synthesis in MP4 format and broadcast according to text information on RPi. Applied MediaPipe and OpenCV for gesture recognition to trigger recognition.
 3. Used YOLOv5, PyTorch and PaddleOCR to train an object-recognition model and a text-recognition model with Python, achieved accuracy of 90.1% and 81.4%. 
 4. Established communication between RPi and PC for image collection and message feedback through Socket and multithread.
-
-Thanks for watching.
