@@ -1,4 +1,4 @@
-Edith is an assistive system that recognize objects or text through point-detecting and give auditory feedback. This name comes from the movie “Spider-Man: Far From Home”, in which iron man Tony Stark sent spider man Peter Parker a smart glasses and Edith is the name of the artificial tactical intelligence system deployed in that glasses.
+Edith is an assistant system that recognize objects or text through point-detecting and give auditory feedback. This name comes from the movie “Spider-Man: Far From Home”, in which iron man Tony Stark sent spider man Peter Parker a smart glasses and Edith is the name of the artificial tactical intelligence system deployed in that glasses.
  
 For Edith, we developed 3 modes, Object-Recognition Mode, Text-Recognition Mode and Accessbility Mode， amiming at helping different groups of people. 
 
