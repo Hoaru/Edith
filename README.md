@@ -12,7 +12,4 @@ Here is a brief introduction of our work:
 4. Used YOLOv5, PyTorch and PaddleOCR to train object recognition model and character recognition model with Python, achieved accuracy of 94.1% and 97.4% respectively.
 5. Applied Socket and Multithreading to established communication between Edge-devices and PC for image collection, and live-voice response.
 
-
-For some files with hierarchical structure, the sizes are over 100MB, which is limited to be uploadded by github. All of the hierarchical files has been uploaded to Google Drive. (https://drive.google.com/file/d/14JYWaeritsMv1TcbVY3NAUtx6ql4oT8k/view?usp=share_link)
-
 Thanks for reading.
