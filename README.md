@@ -6,10 +6,10 @@ For Edith' users, we developed 3 modes, aiming at helping different groups of pe
 3. Accessibility Mode: https://youtu.be/xdyWIbBVSe0
 
 Here is a brief introduction of our work:
-1. Developed a smart assistant system on Linux(RPI) and Windows(PC) with three modes (Object-recognition mode/Text-recognition mode/Assistive mode) that gives real-time auditory feedback.
-2. Utilized pyttsx3 for voice synthesis with MP3 format and speak out the live-voice according to text information on RPi.
-3. Applied MediaPipe and OpenCV for gesture recognition to wake the recognition.
-4. Used YOLOv5, PyTorch and PaddleOCR to train object recognition model and character recognition model with Python, achieved accuracy of 94.1% and 97.4% respectively.
-5. Applied Socket and Multithreading to established communication between Edge-devices and PC for image collection, and live-voice response.
+1. Functional Module Design: Developed object recognition, text recognition, and accessibility modes, optimizing interaction logic for various user groups (children, visually impaired) and supporting multi-scenario applications.
+2. Computer Vision Development: Implemented video stream reading using OpenCV and performed 3D hand gesture recognition with MediaPipe.
+3. Multi-Model Integration: Fine-tuned YOLOv5 model with the COCO dataset for improved accuracy and integrated PaddleOCR for object and text recognition.
+4. Real-time Communication: Designed multi-threading for parallel video processing, gesture parsing, and model inference. Used Socket for communication between Raspberry Pi and PC, creating a voice broadcast mechanism for real-time feedback.
+
 
 Thanks for reading.
